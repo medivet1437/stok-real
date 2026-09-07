@@ -13,7 +13,6 @@
     "@capacitor/camera": "^7.0.2",
     "@capacitor/core": "^7.4.3",
     "@capacitor/share": "^7.0.2",
-    "@aybinv7/capacitor-thermal-printer": "^0.2.8",
     "jspdf": "^3.0.2",
     "xlsx": "^0.18.5"
   },
